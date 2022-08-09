@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Lexxlinks
-- 👀 I’m interested in pentesting, secure coding, blockchain web3
-- 🌱 I’m currently learning Linux, HTML, Node.js, CSS, JAVA
-- 💞️ I’m looking to collaborate on iCP (Internet computer) projects
-- 📫 How to reach me on Twitter: @lexxlinks
+- 👀 I’m interested in blockchain web3 dev, secure code, & pentesting 
+- 🌱 I’m currently learning Linux, Solidity, Motoko, & Java
+- 💞️ I’m looking to collaborate on blockchain web3 projects
+- 📫 Reach me on Twitter: @lexxlinks
 
 <!---
 Lexxlinks/Lexxlinks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
