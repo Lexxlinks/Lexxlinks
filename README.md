@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Lexx
 - 👀 I’m interested in blockchain web3 dev, secure code, & pentesting 
-- 🌱 I’m currently learning Linux, Solidity, Motoko, & Java
+- 🌱 I’m currently learning Linux, Solidity, Java, & Motoko
 - 💞️ I’m looking to collaborate on blockchain web3 projects
 - 📫 Reach me on Twitter: @lexxlinks
 
