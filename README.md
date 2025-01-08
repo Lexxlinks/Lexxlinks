@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Lexx
 - 👀 I’m interested in secure code, pentesting, & w3b 
-- 🌱 I’m currently learning Linux, JavaScript, & Motoko
+- 🌱 I’m currently learning Linux, Python, & Motoko
 - 💞️ I’m looking to collaborate on blockchain w3b projects
 - 📫 Reach me on Twitter: @lexxlinks
 
